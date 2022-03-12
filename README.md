@@ -13,3 +13,5 @@
 
 If you liked my jobs you can support me in ko-fi
 https://ko-fi.com/mmdgio
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaMeIsNtOvEr)](https://github.com/anuraghazra/github-readme-stats)
