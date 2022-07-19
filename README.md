@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on a Minecraft plugins (Some of them are here too!)
+- 🔭 I’m currently working on Minecraft plugins (Some of them are here too!)
 - 🌱 I’m currently learning more java and maybe C# machine learning (ML.NET)?
 - 👯 I’m looking to wall.
 - 🤔 I’m looking for nothing.
