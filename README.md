@@ -3,7 +3,7 @@
 Im a Java & C++ & C# Developer.
 
 - 🔭 I’m currently working on Minecraft plugins (Some of them are here too!)
-- 🌱 I’m currently learning more C++ and python?
+- 🌱 I’m currently learning AI?
 - 👯 I’m looking to wall.
 - 🤔 I’m looking for nothing.
 - 💬 Ask me about everything
