@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Im a Java & C++ & C# Developer.
+Im a Java & Kotlin & Python .
 
 - 🔭 I’m currently working on Minecraft plugins (Some of them are here too!)
 - 🌱 I’m currently learning AI?
