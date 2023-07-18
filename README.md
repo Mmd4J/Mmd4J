@@ -8,7 +8,7 @@ Im a Java & Kotlin & Python developer.
 - 🤔 I’m looking for nothing.
 - 💬 Ask me about everything
 - 📫 How to reach me: MmdGIO#7343
-- 😄 Pronouns: He
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: Nothing
 
 
