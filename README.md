@@ -9,7 +9,7 @@ Im a Java & C# developer.
 - 💬 Ask me about everything
 - 📫 How to reach me: MmdGIO#7343
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Nothing
+- ⚡ Fun fact: I do watch happy banana cat videos. i believe they're a masterpiece fr
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaMeIsNtOvEr)](https://github.com/anuraghazra/github-readme-stats)
