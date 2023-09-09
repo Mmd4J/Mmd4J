@@ -2,7 +2,7 @@
 
 Im a Java & C# developer.
 
-- 🔭 I’m currently working on Minecraft plugins (Some of them are here too!)
+- 🔭 I’m currently working on Java and python stuff
 - 🌱 I’m currently learning AI?
 - 👯 I’m looking to wall.
 - 🤔 I’m looking for nothing.
