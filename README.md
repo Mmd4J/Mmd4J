@@ -7,7 +7,7 @@ Im a Java & C# developer.
 - 👯 I’m looking to wall.
 - 🤔 I’m looking for nothing.
 - 💬 Ask me about everything
-- 📫 How to reach me: MmdGIO#7343
+- 📫 How to reach me: @gameisntover in telegram and gameisntover in discord
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I do watch happy banana cat videos. i believe they're a masterpiece fr
 
