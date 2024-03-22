@@ -9,7 +9,7 @@ I'm a Java & Python developer interested in game development and AI.
 - 💬 Ask me about everything
 - 📫 How to reach me: @gameisntover in telegram and gameisntover in discord
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: My behaves aside, I really like to learn more about others cultures and also discuss about the gods existance.
+- ⚡ Fun fact: Nothing
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaMeIsNtOvEr)](https://github.com/anuraghazra/github-readme-stats)
