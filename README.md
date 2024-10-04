@@ -1,15 +1,20 @@
 ### Hi there 👋
 
-I'm a Java & Python developer interested in game development and AI.
+This guy right here is a developer who is kinda interested in AI/Game development and open source stuff.
+He probably also uses Rust/Kotlin/Python.
 
-- 🔭 I’m currently working on Choco and some other cool NLP stuff.
-- 🌱 I’m currently learning to work with NLTK?.
+(He could be a shia muslim)
+
+He is actually a huge fan of like a dragon franchise. (Thats the only thing that we're all sure about him at least)
+
+- 🔭 I’m currently nerding.
+- 🌱 I’m currently learning how to be a nerd.
 - 👯 I’m looking to wall.
-- 🤔 I’m looking for nothing.
-- 💬 Ask me about everything
-- 📫 How to reach me: @gameisntover in telegram and gameisntover in discord
+- 🤔 I’m looking for cool ideas.
+- 💬 Ask me about everything except chemistry because i hate it so much.
+- 📫 How to reach me: @mmd4j in telegram and mmd4j in discord
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Nothing
+- ⚡ Fun fact: Goro Majima
 
 ![Mmd4J's Stats](https://github-readme-stats.vercel.app/api?username=Mmd4J&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
