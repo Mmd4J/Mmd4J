@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Python/Rust/Kotlin Developer mostly interested in AI and CS.
+Python/Rust/Kotlin Developer interested in Computer science / AI / System programming from Iran/Mashhad.
+
 
 ![Mmd4J's Stats](https://github-readme-stats.vercel.app/api?username=Mmd4J&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
