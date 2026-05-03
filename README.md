@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Python/Rust/Kotlin Developer interested in Computer science / AI / System programming from Iran/Mashhad.
-
+Software Developer interested in Computer science / AI from Mashhad/Iran.
+Currently studying Computer Engineering. 
 
 ![Mmd4J's Stats](https://github-readme-stats.vercel.app/api?username=Mmd4J&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
